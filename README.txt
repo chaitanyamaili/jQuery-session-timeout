@@ -28,3 +28,6 @@ $.fn.keepAlive({url: 'somefolder/keepAlive.php', timer: 5000}); // call every 5 
 
 If you want to stop the ajax calls for some reason just call :
 $.fn.keepAlive('stop');
+
+
+// this is a test added by rithin
